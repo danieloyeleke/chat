@@ -1,0 +1,23 @@
+/*
+
+CSS Stylesheet for chat application
+
+*/
+
+html,body{
+    margin: 0px;
+    padding: 0px;
+}
+
+#messages{
+    width: 700px;
+    height: 500px;
+    padding: 5px;
+    margin: 10px;
+    border: 1px solid #ccc;
+    overflow: auto;
+}
+
+#input{
+    padding:10px; 
+}
